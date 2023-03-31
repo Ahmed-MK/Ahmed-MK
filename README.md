@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed Elkoly 
+- 👋 Hi, I’m @Ahmed Elkholy 
 - 👀 I’m interested in data science field 
 - 🌱 I’m currently learning basics of programing
 - 💞️ I’m looking to collaborate on alot of interseting projects 
